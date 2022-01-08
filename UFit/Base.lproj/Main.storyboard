@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="Dcr-zy-NBL">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Image references" minToolsVersion="12.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Video Table View Controller-->
+        <scene sceneID="utO-Bm-gCi">
+            <objects>
+                <tableViewController id="ZD9-5t-7r2" customClass="VideoTableViewController" customModule="UFit" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="-1" estimatedSectionHeaderHeight="-1" sectionFooterHeight="-1" estimatedSectionFooterHeight="-1" id="ezQ-35-PG7">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <view key="tableHeaderView" contentMode="scaleToFill" id="e6R-tw-bzu">
+                            <rect key="frame" x="0.0" y="0.0" width="414" height="44"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <subviews>
+                                <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="SY9-nD-ctr">
+                                    <rect key="frame" x="8" y="8" width="398" height="29"/>
+                                    <segments>
+                                        <segment title="" image="video.circle.fill" catalog="system"/>
+                                        <segment title="" image="heart.circle.fill" catalog="system"/>
+                                    </segments>
+                                    <connections>
+                                        <action selector="segmentedControlChanged:" destination="ZD9-5t-7r2" eventType="valueChanged" id="AFX-sQ-VRs"/>
+                                    </connections>
+                                </segmentedControl>
+                            </subviews>
+                            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                            <constraints>
+                                <constraint firstAttribute="bottomMargin" secondItem="SY9-nD-ctr" secondAttribute="bottom" id="7V9-KV-thn"/>
+                                <constraint firstItem="SY9-nD-ctr" firstAttribute="leading" secondItem="e6R-tw-bzu" secondAttribute="leadingMargin" id="aEM-eH-fVT"/>
+                                <constraint firstAttribute="trailingMargin" secondItem="SY9-nD-ctr" secondAttribute="trailing" id="taL-vZ-cPX"/>
+                                <constraint firstItem="SY9-nD-ctr" firstAttribute="top" secondItem="e6R-tw-bzu" secondAttribute="topMargin" id="vLN-Av-Ddy"/>
+                            </constraints>
+                        </view>
+                        <prototypes>
+                            <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="none" indentationWidth="10" reuseIdentifier="videoCell" id="SIh-Zh-Fhr" customClass="VideoTableViewCell" customModule="UFit" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="88.5" width="414" height="297.5"/>
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="SIh-Zh-Fhr" id="NpA-17-MeD">
+                                    <rect key="frame" x="0.0" y="0.0" width="414" height="297.5"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="d6h-kj-wP6">
+                                            <rect key="frame" x="25" y="16" width="364" height="265.5"/>
+                                            <subviews>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="JUI-Ld-Wbs">
+                                                    <rect key="frame" x="0.0" y="0.0" width="364" height="205"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" secondItem="JUI-Ld-Wbs" secondAttribute="height" multiplier="16:9" id="Xns-KE-k0g"/>
+                                                    </constraints>
+                                                </imageView>
+                                                <stackView opaque="NO" contentMode="scaleToFill" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="5Rr-oA-1MQ">
+                                                    <rect key="frame" x="0.0" y="215" width="364" height="50.5"/>
+                                                    <subviews>
+                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Video Title" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tcG-g7-gux">
+                                                            <rect key="frame" x="0.0" y="0.0" width="308.5" height="50.5"/>
+                                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                            <nil key="textColor"/>
+                                                            <nil key="highlightedColor"/>
+                                                        </label>
+                                                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sdM-QC-D02">
+                                                            <rect key="frame" x="313.5" y="0.0" width="50.5" height="50.5"/>
+                                                            <constraints>
+                                                                <constraint firstAttribute="width" secondItem="sdM-QC-D02" secondAttribute="height" multiplier="1:1" id="DNU-NH-ag0"/>
+                                                            </constraints>
+                                                            <state key="normal" title="Button"/>
+                                                            <buttonConfiguration key="configuration" style="plain">
+                                                                <imageReference key="image" image="heart" catalog="system" symbolScale="large"/>
+                                                            </buttonConfiguration>
+                                                            <connections>
+                                                                <action selector="heartButtonPressed:" destination="ZD9-5t-7r2" eventType="touchUpInside" id="1Qr-no-AFp"/>
+                                                            </connections>
+                                                        </button>
+                                                    </subviews>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="50" id="4Nt-VK-8wF"/>
+                                                    </constraints>
+                                                </stackView>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstItem="JUI-Ld-Wbs" firstAttribute="top" secondItem="d6h-kj-wP6" secondAttribute="top" id="g8X-ic-aLf"/>
+                                                <constraint firstItem="JUI-Ld-Wbs" firstAttribute="leading" secondItem="d6h-kj-wP6" secondAttribute="leading" id="tdG-6Y-Ktx"/>
+                                                <constraint firstAttribute="trailing" secondItem="JUI-Ld-Wbs" secondAttribute="trailing" id="uel-AQ-Q6b"/>
+                                            </constraints>
+                                        </stackView>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstItem="d6h-kj-wP6" firstAttribute="leading" secondItem="NpA-17-MeD" secondAttribute="leadingMargin" constant="5" id="4gz-yx-RaY"/>
+                                        <constraint firstItem="d6h-kj-wP6" firstAttribute="top" secondItem="NpA-17-MeD" secondAttribute="topMargin" constant="5" id="VMM-4N-ajR"/>
+                                        <constraint firstAttribute="trailingMargin" secondItem="d6h-kj-wP6" secondAttribute="trailing" constant="5" id="wpn-uc-Ccm"/>
+                                        <constraint firstAttribute="bottomMargin" secondItem="d6h-kj-wP6" secondAttribute="bottom" constant="5" id="xsi-oz-UK6"/>
+                                    </constraints>
+                                </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="heartButton" destination="sdM-QC-D02" id="2bd-8e-3pE"/>
+                                    <outlet property="thumbnailImageView" destination="JUI-Ld-Wbs" id="V9v-XQ-Nt5"/>
+                                    <outlet property="titleLabel" destination="tcG-g7-gux" id="Etd-r1-WxH"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="ZD9-5t-7r2" id="b5q-LK-4hG"/>
+                            <outlet property="delegate" destination="ZD9-5t-7r2" id="Uzy-pO-nYx"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="Flg-9l-9CQ"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Dod-ho-blk" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2239.130434782609" y="136.60714285714286"/>
+        </scene>
+        <!--All-->
+        <scene sceneID="ZwS-Pb-sJm">
+            <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zgb-Oj-l0u" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Dcr-zy-NBL" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="All" image="video.circle.fill" catalog="system" id="OwT-tx-vFW"/>
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="KNj-gS-Qei">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="ZD9-5t-7r2" kind="relationship" relationship="rootViewController" id="bja-an-h5i"/>
+                    </connections>
+                </navigationController>
+            </objects>
+            <point key="canvasLocation" x="1355" y="137"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="heart" catalog="system" width="128" height="109"/>
+        <image name="heart.circle.fill" catalog="system" width="128" height="121"/>
+        <image name="video.circle.fill" catalog="system" width="128" height="121"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

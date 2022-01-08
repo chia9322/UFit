@@ -1,0 +1,2711 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "uGUsyUs8vO4gEV5w9PALzyyDAuw",
+  "nextPageToken": "EAAaBlBUOkNESQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wz5mGhC4ZYBAsvqOFzqiV66Z6MY",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLkdJU1VQTUxLdGFr",
+      "snippet": {
+        "publishedAt": "2021-12-09T06:11:48Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【毎日10分 夜ストレッチ】　腰痛改善、疲労回復、安眠に効果的！　#523",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GISUPMLKtak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GISUPMLKtak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GISUPMLKtak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GISUPMLKtak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GISUPMLKtak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "GISUPMLKtak"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "GISUPMLKtak",
+        "videoPublishedAt": "2021-12-15T09:00:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "mdUjq919TQ23uXRdny6k2rrmGh8",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLjFaM1NpZkZlNFJN",
+      "snippet": {
+        "publishedAt": "2021-12-04T14:32:07Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【毎日10分 朝ストレッチ】 柔軟性を高め、しなやかな体を作る！　#522",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Z3SifFe4RM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Z3SifFe4RM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Z3SifFe4RM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Z3SifFe4RM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Z3SifFe4RM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1Z3SifFe4RM"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "1Z3SifFe4RM",
+        "videoPublishedAt": "2021-12-08T09:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "G2eLoxnVB6UCPkdIK7zCz3NB68E",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLnpSSkltVFhVUnBB",
+      "snippet": {
+        "publishedAt": "2021-11-17T12:48:43Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "ストレスや不安を解消し、全身のゆがみを整えるヨガ　＃521",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zRJImTXURpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zRJImTXURpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zRJImTXURpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zRJImTXURpA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zRJImTXURpA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zRJImTXURpA"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "zRJImTXURpA",
+        "videoPublishedAt": "2021-12-01T09:00:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lS_2HS_UoEN-181ZpdYwm7PexVg",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLnFIUUpwQ3BMQ2Nj",
+      "snippet": {
+        "publishedAt": "2021-11-17T12:48:57Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【1日6分】 2週間で下腹ペタンコ　ぽっこりお腹がみるみる引き締まる！ ＃520",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qHQJpCpLCcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qHQJpCpLCcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qHQJpCpLCcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qHQJpCpLCcc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qHQJpCpLCcc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qHQJpCpLCcc"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "qHQJpCpLCcc",
+        "videoPublishedAt": "2021-11-24T09:02:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KNle6G9cnh9Jz9jY4cLmnnOyP0s",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLkRKN2l6OTBjUmN3",
+      "snippet": {
+        "publishedAt": "2021-11-11T05:09:51Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【全身フローヨガ】 柔軟性アップとダイエットに効果的！ #519",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DJ7iz90cRcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DJ7iz90cRcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DJ7iz90cRcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DJ7iz90cRcw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DJ7iz90cRcw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "DJ7iz90cRcw"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "DJ7iz90cRcw",
+        "videoPublishedAt": "2021-11-17T09:03:57Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JljBxnFHFea_IwRwVIT58tMo5y8",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLldsbS1ia1Z0TWdj",
+      "snippet": {
+        "publishedAt": "2021-11-03T06:08:06Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【人生は朝で決まる】 起きてすぐの朝ヨガから最高の1日をスタート！ #518",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wlm-bkVtMgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wlm-bkVtMgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wlm-bkVtMgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wlm-bkVtMgc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wlm-bkVtMgc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Wlm-bkVtMgc"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "Wlm-bkVtMgc",
+        "videoPublishedAt": "2021-11-10T09:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "oJcwGHhuawxFYPqQYcC39NQkOqE",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLnBIMUlkNTI2MndR",
+      "snippet": {
+        "publishedAt": "2021-10-28T11:29:26Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "心と体の疲れを癒す寝る前のリラックスヨガ #517",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pH1Id5262wQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pH1Id5262wQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pH1Id5262wQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pH1Id5262wQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pH1Id5262wQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pH1Id5262wQ"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "pH1Id5262wQ",
+        "videoPublishedAt": "2021-11-03T09:00:21Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "cLo4Xa-BozOD0uqLN5i_pbnFpPM",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLm5Ga1NHRjRPSTNF",
+      "snippet": {
+        "publishedAt": "2021-10-26T02:48:53Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "ヨガ動画撮影の舞台裏 #516",
+        "description": "☆今回撮影した動画\n\n【毎朝12分】 目覚めの全身ストレッチでみるみるカラダが変化！ #497\nhttps://youtu.be/BdsvI2FdjzU\n\n【痩せるヨガ】 短時間でどんどん体を引き締める脂肪燃焼フロー #512\nhttps://youtu.be/v4q43Fsg49k\n\n☆4年前に富士山で撮影した動画\n\nヨガ初心者の方でも簡単にできる朝ヨガ！太陽礼拝☆ #165\nhttps://youtu.be/zty0W3JHb34\n\nゆったりフローヨガ☆　全身の代謝を上げ、心地よくダイエット！ #166\nhttps://youtu.be/K0V3YPJw1Mw\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nFkSGF4OI3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nFkSGF4OI3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nFkSGF4OI3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nFkSGF4OI3E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nFkSGF4OI3E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nFkSGF4OI3E"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "nFkSGF4OI3E",
+        "videoPublishedAt": "2021-10-31T09:30:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "YBgEWEV-rNObe0k8595dJ8r0Q2o",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmZ5cENUU2Jzc2NV",
+      "snippet": {
+        "publishedAt": "2021-10-25T12:47:09Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【1日8分】 美しいデコルテラインを作る♡　肩こり・首こりもスッキリ！ #515",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fypCTSbsscU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fypCTSbsscU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fypCTSbsscU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fypCTSbsscU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fypCTSbsscU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fypCTSbsscU"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "fypCTSbsscU",
+        "videoPublishedAt": "2021-10-27T09:00:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "zUbYs1h0Vh5X_GpoIIOPBf1K2gI",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLk5FZ2d0ckxqUTIw",
+      "snippet": {
+        "publishedAt": "2021-10-20T12:16:46Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "B-lifeオリジナルヨガウェアの発売！  極上の着心地を追求しました #513",
+        "description": "👕B-lifeオリジナルヨガウェア\n\n極上の着心地とスタイリッシュなデザインを追求したB-lifeのオリジナルヨガウェアが完成しました！\n\n詳細はこちら↓\nhttps://shop.b-life.style/\n\n\nB-lifeオリジナルヨガウェアについて下記のLIVE配信のヨガレッスン後に細かい説明を行っていますので、もし迷われている方はこちらの動画も参考にしてみてください。\nhttps://youtu.be/JN4iEmwmwzM\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NEggtrLjQ20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NEggtrLjQ20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NEggtrLjQ20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NEggtrLjQ20/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NEggtrLjQ20/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NEggtrLjQ20"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "NEggtrLjQ20",
+        "videoPublishedAt": "2021-10-23T09:00:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XY9LqF-CRkHxOzmI4smdKuTyYiU",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLkpONGlFbXdtd3pN",
+      "snippet": {
+        "publishedAt": "2021-10-21T10:44:24Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【スペシャルLIVE】 朝のストレッチヨガ＆B-life新作ヨガウェア発売！ #514",
+        "description": "👕B-lifeオリジナルヨガウェア\n\n極上の着心地とスタイリッシュなデザインを追求したB-lifeのオリジナルヨガウェアが完成しました！\n\n詳細はこちら↓\nhttps://shop.b-life.style/\n\n\n目次\n0:00　LIVE配信開始\n4:38　ヨガレッスンスタート\n45:48　B-life新作ヨガウェアの発表\n1:09:50　新作ヨガウェアについての質疑応答\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JN4iEmwmwzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JN4iEmwmwzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JN4iEmwmwzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JN4iEmwmwzM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JN4iEmwmwzM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 10,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JN4iEmwmwzM"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "JN4iEmwmwzM",
+        "videoPublishedAt": "2021-10-23T02:17:29Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "h6Z7iWZTigO6ygR0gDvr5LoTBS4",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLnY0cTQzRnNnNDlr",
+      "snippet": {
+        "publishedAt": "2021-10-16T06:37:02Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【痩せるヨガ】 短時間でどんどん体を引き締める脂肪燃焼フロー #512",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v4q43Fsg49k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v4q43Fsg49k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v4q43Fsg49k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v4q43Fsg49k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v4q43Fsg49k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 11,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "v4q43Fsg49k"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "v4q43Fsg49k",
+        "videoPublishedAt": "2021-10-20T09:00:35Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qa_gyV5_9LSVlRvI2LJMttyRKWw",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLlU3RXBZamtXN19N",
+      "snippet": {
+        "publishedAt": "2021-09-25T14:34:00Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【毎日7分】 前屈が深まる魔法のストレッチ　腰痛改善＆疲労回復に効果的！ #511",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U7EpYjkW7_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U7EpYjkW7_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U7EpYjkW7_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U7EpYjkW7_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U7EpYjkW7_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 12,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "U7EpYjkW7_M"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "U7EpYjkW7_M",
+        "videoPublishedAt": "2021-10-13T09:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "B-Ts3OZ6iIBPRJkHpNssnCn0CRs",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmhTX0JSb1M1ZXV3",
+      "snippet": {
+        "publishedAt": "2021-09-25T14:31:26Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【毎日10分】 2週間でベターっと開脚できる魔法のストレッチ #510",
+        "description": "『魔法のストレッチ』3週間プログラム\nhttps://b-life.style/program/641/\n\n※プログラム概要\n　・10月4日（月）からスタートしますが、4日以降はいつ行っても大丈夫です\n　・「Coming Soon」は新作動画で、10月の日曜、水曜の18時に順次配信していきます\n　・是非皆さんの頑張りを #blifeyoga をつけてインスタグラムで投稿してくださいね！\n\nB-lifeオンラインサロン　今だけ10日間無料キャンペーン実施中！\n美しくしなやかに体を引き締めたい、体の内側から綺麗になりたい方は、入会して仲間と一緒に頑張りませんか？\nhttps://lounge.dmm.com/detail/1005/\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hS_BRoS5euw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hS_BRoS5euw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hS_BRoS5euw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hS_BRoS5euw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hS_BRoS5euw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 13,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "hS_BRoS5euw"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "hS_BRoS5euw",
+        "videoPublishedAt": "2021-10-10T09:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "jE1fZuiaZr5adEgmkRjfDDTLolY",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLkNnWWQ4TEhuOE1B",
+      "snippet": {
+        "publishedAt": "2021-09-25T14:16:44Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【10分】 美しい背中を作る魔法のストレッチ　肩こり解消にも効果的！ #509",
+        "description": "『魔法のストレッチ』3週間プログラム\nhttps://b-life.style/program/641/\n\n※プログラム概要\n　・10月4日（月）からスタートしますが、4日以降はいつ行っても大丈夫です\n　・「Coming Soon」は新作動画で、10月の日曜、水曜の18時に順次配信していきます\n　・是非皆さんの頑張りを #blifeyoga をつけてインスタグラムで投稿してくださいね！\n\nB-lifeオンラインサロン　今だけ10日間無料キャンペーン実施中！\n美しくしなやかに体を引き締めたい、体の内側から綺麗になりたい方は、入会して仲間と一緒に頑張りませんか？\nhttps://lounge.dmm.com/detail/1005/\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CgYd8LHn8MA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CgYd8LHn8MA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CgYd8LHn8MA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CgYd8LHn8MA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CgYd8LHn8MA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 14,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CgYd8LHn8MA"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "CgYd8LHn8MA",
+        "videoPublishedAt": "2021-10-06T09:08:03Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wFK-jq1g0Q7IFr0E1qZL_nQ6qDw",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLnFxZlRHNm1wWDBF",
+      "snippet": {
+        "publishedAt": "2021-09-25T14:00:59Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【8分で劇的変化！】 股関節がみるみる柔らかくなる魔法のストレッチ　骨盤調整・脚の冷え・むくみに効果的 #508",
+        "description": "『魔法のストレッチ』3週間プログラムはどなたでも無料でご参加いただけます\n詳細は下記をご覧ください\nhttps://b-life.style/program/641/\n\n※プログラム概要\n　・10月4日（月）からスタートしますが、4日以降はいつ行っても大丈夫です\n　・「Coming Soon」は新作動画で、10月の日曜、水曜の18時に順次配信していきます\n　・是非皆さんの頑張りを #blifeyoga をつけてインスタグラムで投稿してくださいね！\n\nB-lifeオンラインサロン　今だけ10日間無料キャンペーン実施中！\n美しくしなやかに体を引き締めたい、体の内側から綺麗になりたい方は、入会して仲間と一緒に頑張りませんか？\nhttps://lounge.dmm.com/detail/1005/\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qqfTG6mpX0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qqfTG6mpX0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qqfTG6mpX0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qqfTG6mpX0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qqfTG6mpX0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 15,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "qqfTG6mpX0E"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "qqfTG6mpX0E",
+        "videoPublishedAt": "2021-10-03T09:00:15Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "vPZnWjTnqDp8EiJabc2QXheBdow",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLlZlZGNuQlBaWGVN",
+      "snippet": {
+        "publishedAt": "2021-09-30T14:14:16Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "体が硬い人ほど劇的変化！ 柔軟性ゼロから始める「魔法のストレッチ」 3週間プログラム",
+        "description": "『魔法のストレッチ』3週間プログラム\nhttps://b-life.style/program/641/\n\n※プログラム概要\n　・10月4日（月）からスタートしますが、4日以降はいつ行っても大丈夫です\n　・「Coming Soon」は新作動画で、10月の日曜、水曜の18時に順次配信していきます\n　・是非皆さんの頑張りを #blifeyoga をつけてインスタグラムで投稿してくださいね！\n\nB-lifeオンラインサロン　今だけ10日間無料キャンペーン実施中！\n美しくしなやかに体を引き締めたい、体の内側から綺麗になりたい方は、入会して仲間と一緒に頑張りませんか？\nhttps://lounge.dmm.com/detail/1005/\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VedcnBPZXeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VedcnBPZXeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VedcnBPZXeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VedcnBPZXeM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VedcnBPZXeM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 16,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VedcnBPZXeM"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "VedcnBPZXeM",
+        "videoPublishedAt": "2021-10-02T09:00:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "UYRyh5PJs8fVjO4jhPgkl9Uisg8",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmVYcjl6RzYzVU9z",
+      "snippet": {
+        "publishedAt": "2021-09-02T02:18:05Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【自律神経リセット】 心と体がらくになるセルフケアヨガ！ #507",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eXr9zG63UOs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eXr9zG63UOs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eXr9zG63UOs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/eXr9zG63UOs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/eXr9zG63UOs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 17,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "eXr9zG63UOs"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "eXr9zG63UOs",
+        "videoPublishedAt": "2021-09-29T09:00:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "69aeILbz7jhCbIOtAXW-afYc5N4",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmN4cWxtUnZqanBJ",
+      "snippet": {
+        "publishedAt": "2021-09-03T14:42:46Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【毎朝10分】 朝ヨガで目覚めスッキリ！ １日の体調がみるみる整う #506",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cxqlmRvjjpI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cxqlmRvjjpI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cxqlmRvjjpI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cxqlmRvjjpI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cxqlmRvjjpI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 18,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cxqlmRvjjpI"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "cxqlmRvjjpI",
+        "videoPublishedAt": "2021-09-22T09:00:31Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "8VSW9ENRV3LkX4ip-f-ra-Ju1LI",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLm5TRnlqREJNUGtv",
+      "snippet": {
+        "publishedAt": "2021-09-13T04:54:30Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "2週間で美しくスリムな背中をつくる♡　8分間で姿勢がみるみる改善！ #505",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nSFyjDBMPko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nSFyjDBMPko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nSFyjDBMPko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nSFyjDBMPko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nSFyjDBMPko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 19,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "nSFyjDBMPko"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "nSFyjDBMPko",
+        "videoPublishedAt": "2021-09-15T09:00:24Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "aSz2SRbaKIfQqGTghOzcsfn3nU8",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLlR5TkgxQ3dlQ19N",
+      "snippet": {
+        "publishedAt": "2021-09-03T13:59:19Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【寝たまま8分】 骨盤リセットで疲れ知らずのカラダになる！ 股関節・腰痛・むくみ・冷えの解消 #504",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TyNH1CweC_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TyNH1CweC_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TyNH1CweC_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TyNH1CweC_M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TyNH1CweC_M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 20,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TyNH1CweC_M"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "TyNH1CweC_M",
+        "videoPublishedAt": "2021-09-08T09:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0nu3ZfbaYdGsmjRE52YEzw54P70",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmRrdmxWVWxMZlg4",
+      "snippet": {
+        "publishedAt": "2021-08-29T15:08:29Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【毎日8分】2週間で腰回りのハミ肉がみるみる落ちる！ #503",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dkvlVUlLfX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dkvlVUlLfX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dkvlVUlLfX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dkvlVUlLfX8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dkvlVUlLfX8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 21,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "dkvlVUlLfX8"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "dkvlVUlLfX8",
+        "videoPublishedAt": "2021-09-01T09:00:17Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "2Ud-wLTSFovWMRTYvyoqAUCmE8w",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLlZyMUFkVldickZB",
+      "snippet": {
+        "publishedAt": "2021-08-23T08:49:32Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【座ったまま3分】ガチガチ肩こりがスッキリ解消！ #502",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vr1AdVWbrFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vr1AdVWbrFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vr1AdVWbrFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Vr1AdVWbrFA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Vr1AdVWbrFA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 22,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Vr1AdVWbrFA"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "Vr1AdVWbrFA",
+        "videoPublishedAt": "2021-08-25T09:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "tOrT4j-YXsGmHDbVL7dahVdcVdo",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLlNYMkZzRUN6QjI0",
+      "snippet": {
+        "publishedAt": "2021-08-14T11:54:19Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【極上ストレッチ】 全身の不調が改善し、みるみる柔らかくなる！ #501",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SX2FsECzB24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SX2FsECzB24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SX2FsECzB24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SX2FsECzB24/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SX2FsECzB24/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 23,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "SX2FsECzB24"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "SX2FsECzB24",
+        "videoPublishedAt": "2021-08-18T09:00:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "JvziB3a9VU9VUo7e3sveJBOLaLw",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLk5ZeUFEUUJiVWxV",
+      "snippet": {
+        "publishedAt": "2021-08-08T10:45:11Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【祝5周年＆500本】 視聴者の皆さまのおかげでここまでこられました！ #500",
+        "description": "今回紹介した動画はこちら\n\n痩せるフローヨガ #273\nhttps://youtu.be/vxRi0DUPggQ\n\n朝のフローヨガ　＃461\nhttps://youtu.be/AqyzZj8DcWI\n\n自律神経を整える　＃363\nhttps://youtu.be/EYqPH91q5nE\n\n自律神経を整える（Enyaバージョン）\nhttps://youtu.be/9Hk29Ic3RIo\n\n最高の朝ヨガ　＃264\nhttps://youtu.be/gLCd-E8ekEg\n\n全身リフレッシュ　＃393\nhttps://youtu.be/El-hcEUklR4\n\nゆったり朝ヨガ　＃279\nhttps://youtu.be/MDMbpikr8oo\n\n5分朝ヨガ　＃369\nhttps://youtu.be/GuxDXXYUjn0\n\n夜のフローヨガ　＃413\nhttps://youtu.be/BnVaMeLCALQ\n\n朝の瞑想　＃471\nhttps://youtu.be/FgZuiFpSNro\n\n代謝アップフロー　＃318\nhttps://youtu.be/lM_lBlR5YEw\n\n10分朝ヨガ　＃240\nhttps://youtu.be/OBqkkThczb4\n\nバイロンベイ　＃241\nhttps://youtu.be/JkMNbTL9ad8\n舞台裏がもっと見たい方はメンバーシップで限定公開しています\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n朝のヨガ（特別編）　＃247\nhttps://youtu.be/-1M4wiFSaDQ\n\n極上のリセットヨガ　＃401\nhttps://youtu.be/92xzvUVJvtA\n\nHOPE　＃266\nhttps://youtu.be/MnYqiE0bLfI\n\nHOPE詳細\nhttps://lounge.dmm.com/content/3290/\n\n誕生　＃467\nhttps://youtu.be/JEcJoripasg\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NYyADQBbUlU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NYyADQBbUlU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NYyADQBbUlU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NYyADQBbUlU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NYyADQBbUlU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 24,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "NYyADQBbUlU"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "NYyADQBbUlU",
+        "videoPublishedAt": "2021-08-11T12:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Um4V3yOBLzKtfPG_mCGFnr8Emlg",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLlY5d1QyYkRlX3dj",
+      "snippet": {
+        "publishedAt": "2021-08-02T02:33:42Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【最高のリフレッシュ】 パワーがみなぎるフローヨガで代謝アップ＆免疫力強化！ #499",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V9wT2bDe_wc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V9wT2bDe_wc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V9wT2bDe_wc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/V9wT2bDe_wc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/V9wT2bDe_wc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 25,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "V9wT2bDe_wc"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "V9wT2bDe_wc",
+        "videoPublishedAt": "2021-08-04T09:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ruwPkNzdknWOW0Boy54i2ida64M",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmE3YVc0RTdCdUlr",
+      "snippet": {
+        "publishedAt": "2021-07-30T08:55:01Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【LIVE】 これ一本で腹・脚・尻・背中すべてが引き締まる究極のボディメイク！ #498",
+        "description": "🍀B-lifeオリジナルタンブラー発売！\nヨガの『ツリーポーズ』を自然の中で行うアートデザインを施しました（限定販売）\nhttps://shop.b-life.style/collections/first-product-list/products/b-life-essential-tumbler\n\n\n『究極のボディメイク BEST FIT』4週間プログラム\nhttps://b-life.style/program/406/\n\n※プログラム概要\n　・7月5日（月）からスタートしますが、5日以降はいつ行っても大丈夫です\n　・「Coming Soon」は新作動画で、7月の日曜、水曜の18時に順次配信していきます\n　・プログラムを始める前に体重や体脂肪率の計測、写真を撮ることをオススメします\n　・是非皆さんの頑張りを #blifefit をつけてインスタグラムで投稿してくださいね！\n\nB-lifeオンラインサロン　今だけ7日間無料キャンペーン実施中！\n一人だとなかなかダイエットが続かない方は、オンラインサロンに入会して仲間と一緒に頑張りませんか？\nhttps://lounge.dmm.com/detail/1005/\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a7aW4E7BuIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a7aW4E7BuIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a7aW4E7BuIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a7aW4E7BuIk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a7aW4E7BuIk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 26,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a7aW4E7BuIk"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "a7aW4E7BuIk",
+        "videoPublishedAt": "2021-08-01T01:39:41Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Tq3B88mIdV_Y_mzuyM8DA-X8jyw",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLkJkc3ZJMkZkanpV",
+      "snippet": {
+        "publishedAt": "2021-07-25T14:45:13Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【毎朝12分】 目覚めの全身ストレッチでみるみるカラダが変化！ #497",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BdsvI2FdjzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BdsvI2FdjzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BdsvI2FdjzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BdsvI2FdjzU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BdsvI2FdjzU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 27,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "BdsvI2FdjzU"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "BdsvI2FdjzU",
+        "videoPublishedAt": "2021-07-28T09:00:11Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "VxaY3Hb8Q_rvsOH_hnnw0OSTF74",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLjhjNU5iVEhMN0lZ",
+      "snippet": {
+        "publishedAt": "2021-06-29T11:00:41Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【鬼の10分】短時間で全身の脂肪がみるみる燃える！ - BEST FIT #495",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8c5NbTHL7IY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8c5NbTHL7IY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8c5NbTHL7IY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8c5NbTHL7IY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8c5NbTHL7IY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 28,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8c5NbTHL7IY"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "8c5NbTHL7IY",
+        "videoPublishedAt": "2021-07-21T09:00:09Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FO8q140JW72sQVedPJx_20Oss8k",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLlJMTEFrQ0R3UktZ",
+      "snippet": {
+        "publishedAt": "2021-06-29T10:50:32Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【地獄の10分】効果絶大！全身痩せトレーニング - BEST FIT #494",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RLLAkCDwRKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RLLAkCDwRKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RLLAkCDwRKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RLLAkCDwRKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RLLAkCDwRKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 29,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "RLLAkCDwRKY"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "RLLAkCDwRKY",
+        "videoPublishedAt": "2021-07-18T09:00:13Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "WTuIUGPn5FBeSdrFqSuZMR2kpKc",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLlhRcWV4VVczS28w",
+      "snippet": {
+        "publishedAt": "2021-06-29T10:44:01Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【10分で変化】みるみる脚が引き締まる下半身燃焼トレーニング - BEST FIT #493",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XQqexUW3Ko0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XQqexUW3Ko0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XQqexUW3Ko0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XQqexUW3Ko0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XQqexUW3Ko0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 30,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "XQqexUW3Ko0"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "XQqexUW3Ko0",
+        "videoPublishedAt": "2021-07-14T09:00:23Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "wGJlpSoHL6NgkqLMz6kM_jB-pRU",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLlRMTHlrLXhuS3lZ",
+      "snippet": {
+        "publishedAt": "2021-06-29T10:24:48Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【1日10分】贅肉のない美しい背中と二の腕をつくる - BEST FIT #492",
+        "description": "『究極のボディメイク BEST FIT』4週間プログラム\nhttps://b-life.style/program/406/\n\n※プログラム概要\n　・7月5日（月）からスタートしますが、5日以降はいつ行っても大丈夫です\n　・「Coming Soon」は新作動画で、7月の日曜、水曜の18時に順次配信していきます\n　・プログラムを始める前に体重や体脂肪率の計測、写真を撮ることをオススメします\n　・是非皆さんの頑張りを #blifefit をつけてインスタグラムで投稿してくださいね！\n\nB-lifeオンラインサロン　今だけ7日間無料キャンペーン実施中！\n一人だとなかなかダイエットが続かない方は、オンラインサロンに入会して仲間と一緒に頑張りませんか？\nhttps://lounge.dmm.com/detail/1005/\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TLLyk-xnKyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TLLyk-xnKyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TLLyk-xnKyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TLLyk-xnKyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TLLyk-xnKyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 31,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "TLLyk-xnKyY"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "TLLyk-xnKyY",
+        "videoPublishedAt": "2021-07-11T09:00:25Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Q3GQDzTfn09teZbN-jhvmpk1W4A",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLi1lWUtKVDhWWHRF",
+      "snippet": {
+        "publishedAt": "2021-07-08T09:42:33Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【柔軟性アップ】 朝のストレッチで痩せやすいカラダを作る！ #496",
+        "description": "🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n\n『究極のボディメイク BEST FIT』4週間プログラム\nhttps://b-life.style/program/406/\n\n※プログラム概要\n　・7月5日（月）からスタートしますが、5日以降はいつ行っても大丈夫です\n　・「Coming Soon」は新作動画で、7月の日曜、水曜の18時に順次配信していきます\n　・プログラムを始める前に体重や体脂肪率の計測、写真を撮ることをオススメします\n　・是非皆さんの頑張りを #blifefit をつけてインスタグラムで投稿してくださいね！\n\nB-lifeオンラインサロン　今だけ7日間無料キャンペーン実施中！\n一人だとなかなかダイエットが続かない方は、オンラインサロンに入会して仲間と一緒に頑張りませんか？\nhttps://lounge.dmm.com/detail/1005/\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-eYKJT8VXtE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-eYKJT8VXtE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-eYKJT8VXtE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-eYKJT8VXtE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-eYKJT8VXtE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 32,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-eYKJT8VXtE"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "-eYKJT8VXtE",
+        "videoPublishedAt": "2021-07-10T01:44:07Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "eW2XijTbMZwj_TKR8TluMCCOflg",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLnpUc0pQcVEwOXlv",
+      "snippet": {
+        "publishedAt": "2021-06-29T09:26:12Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【10分で変わる】お尻がみるみる引き締まる究極の美尻トレ - BEST FIT #491",
+        "description": "『究極のボディメイク BEST FIT』4週間プログラム\nhttps://b-life.style/program/406/\n\n※プログラム概要\n　・7月5日（月）からスタートしますが、5日以降はいつ行っても大丈夫です\n　・「Coming Soon」は新作動画で、7月の日曜、水曜の18時に順次配信していきます\n　・プログラムを始める前に体重や体脂肪率の計測、写真を撮ることをオススメします\n　・是非皆さんの頑張りを #blifefit をつけてインスタグラムで投稿してくださいね！\n\nB-lifeオンラインサロン　今だけ7日間無料キャンペーン実施中！\n一人だとなかなかダイエットが続かない方は、オンラインサロンに入会して仲間と一緒に頑張りませんか？\nhttps://lounge.dmm.com/detail/1005/\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zTsJPqQ09yo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zTsJPqQ09yo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zTsJPqQ09yo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zTsJPqQ09yo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zTsJPqQ09yo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 33,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "zTsJPqQ09yo"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "zTsJPqQ09yo",
+        "videoPublishedAt": "2021-07-07T09:00:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "W7eXey66Xe021Sb4VdzkFXXlwMY",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLnd0UnpCbHBhZFUw",
+      "snippet": {
+        "publishedAt": "2021-06-29T09:03:36Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【毎日10分】 2週間で腹筋を割る！ - BEST FIT #490",
+        "description": "『究極のボディメイク BEST FIT』4週間プログラム\nhttps://b-life.style/program/406/\n\n※プログラム概要\n　・7月5日（月）からスタートしますが、5日以降はいつ行っても大丈夫です\n　・「Coming Soon」は新作動画で、7月の日曜、水曜の18時に順次配信していきます\n　・プログラムを始める前に体重や体脂肪率の計測、写真を撮ることをオススメします\n　・是非皆さんの頑張りを #blifefit をつけてインスタグラムで投稿してくださいね！\n\nB-lifeオンラインサロン　今だけ7日間無料キャンペーン実施中！\n一人だとなかなかダイエットが続かない方は、オンラインサロンに入会して仲間と一緒に頑張りませんか？\nhttps://lounge.dmm.com/detail/1005/\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wtRzBlpadU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wtRzBlpadU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wtRzBlpadU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wtRzBlpadU0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wtRzBlpadU0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 34,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "wtRzBlpadU0"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "wtRzBlpadU0",
+        "videoPublishedAt": "2021-07-04T09:00:20Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "XYBFsRe70fe8MpB53zn3R0sEdCU",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmNGdTJ5N19FQ1dz",
+      "snippet": {
+        "publishedAt": "2021-06-29T02:14:56Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "私の体型を劇的に変えた4週間の究極のトレーニングプログラム #489",
+        "description": "『究極のボディメイク BEST FIT』4週間プログラム\nhttps://b-life.style/program/406/\n\n※プログラム概要\n　・7月5日（月）からスタートしますが、5日以降はいつ行っても大丈夫です\n　・「Coming Soon」は新作動画で、7月の日曜、水曜の18時に順次配信していきます\n　・プログラムを始める前に体重や体脂肪率の計測、写真を撮ることをオススメします\n　・是非皆さんの頑張りを #blifefit をつけてインスタグラムで投稿してくださいね！\nhttps://www.instagram.com/blifetokyo/\n\nB-lifeオンラインサロン　今だけ7日間無料キャンペーン実施中！\n一人だとなかなかダイエットが続かない方は、オンラインサロンに入会して仲間と一緒に頑張りませんか？\nhttps://lounge.dmm.com/detail/1005/\n\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cFu2y7_ECWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cFu2y7_ECWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cFu2y7_ECWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cFu2y7_ECWs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cFu2y7_ECWs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 35,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "cFu2y7_ECWs"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "cFu2y7_ECWs",
+        "videoPublishedAt": "2021-07-03T09:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "IOl14caUL194BLpUBZI5FD3d38o",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLlJlMk1tZ1llMDFB",
+      "snippet": {
+        "publishedAt": "2021-06-09T08:51:17Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【全身スッキリ】 仕事の後や運動後の疲れをとる6分間ストレッチ！ #488",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Re2MmgYe01A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Re2MmgYe01A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Re2MmgYe01A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Re2MmgYe01A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Re2MmgYe01A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 36,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Re2MmgYe01A"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "Re2MmgYe01A",
+        "videoPublishedAt": "2021-06-23T09:00:10Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "HHG_fTVHVi0FNzKo2FLfBRrDzxI",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLnVpNzdmMEJ3aFpJ",
+      "snippet": {
+        "publishedAt": "2021-06-13T14:27:43Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【寝る前10分】 寝たままできる脚やせストレッチ #487",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ui77f0BwhZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ui77f0BwhZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ui77f0BwhZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ui77f0BwhZI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ui77f0BwhZI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 37,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "ui77f0BwhZI"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "ui77f0BwhZI",
+        "videoPublishedAt": "2021-06-16T09:00:33Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "lKuSjpHoEyj6G30LS-hXQmN0KIQ",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmE2RTJFZ3VPV1lF",
+      "snippet": {
+        "publishedAt": "2021-06-10T10:05:56Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【脂肪燃焼HIIT】 ストレッチから全身引き締めまでこれ1本でOK！ #486",
+        "description": "6/19(土)\ufeffに国際Yoga Dayスペシャルイベント『CONNECT』を行います❗️\ufeff\n詳細はこちら↓\ufeff\nhttps://shop.b-life.style/pages/connect\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a6E2EguOWYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a6E2EguOWYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a6E2EguOWYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a6E2EguOWYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a6E2EguOWYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 38,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "a6E2EguOWYE"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "a6E2EguOWYE",
+        "videoPublishedAt": "2021-06-12T01:38:27Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "yzxgQyVjVaiIcva7B-BNZbuHsI0",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmw1ZzExSnViX0pj",
+      "snippet": {
+        "publishedAt": "2021-06-04T04:26:39Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【毎日6分ストレッチ】 硬いカラダを柔らかく！ #485",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l5g11Jub_Jc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l5g11Jub_Jc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l5g11Jub_Jc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l5g11Jub_Jc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l5g11Jub_Jc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 39,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "l5g11Jub_Jc"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "l5g11Jub_Jc",
+        "videoPublishedAt": "2021-06-09T09:00:26Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "0gEi9guATHAdP5f6WtTV17XVQqY",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLkN0WUQzRXlzUE84",
+      "snippet": {
+        "publishedAt": "2021-02-16T11:08:00Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【肩こり・首こりは自分で治せる！】 上半身の凝りをほぐすヨガ #484",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CtYD3EysPO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CtYD3EysPO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CtYD3EysPO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CtYD3EysPO8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CtYD3EysPO8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 40,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "CtYD3EysPO8"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "CtYD3EysPO8",
+        "videoPublishedAt": "2021-06-02T09:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "qwBclNUF-wLG6TG88ccMQt6B1yE",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmU2WWVkeTh5TXlJ",
+      "snippet": {
+        "publishedAt": "2021-05-27T09:35:00Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【産後初LIVE】 目覚めスッキリ！朝ヨガで全身リフレッシュ #482",
+        "description": "🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e6Yedy8yMyI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e6Yedy8yMyI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e6Yedy8yMyI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/e6Yedy8yMyI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/e6Yedy8yMyI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 41,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "e6Yedy8yMyI"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "e6Yedy8yMyI",
+        "videoPublishedAt": "2021-05-29T01:14:00Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Vbs93LUhleHQ1xBLg5f6HcNTr-c",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLk40LTZETmJnTTFR",
+      "snippet": {
+        "publishedAt": "2021-05-28T01:31:08Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【B-lifeオンラインサロン】 一緒にダイエットしませんか？ #483",
+        "description": "🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\n2021年6月末まで、10日間の無料キャンペーン実地中！\nhttps://lounge.dmm.com/detail/1005/\n\n- オンラインサロン講師プロフィール -\nMariko　（B-lifeインストラクター）\n\nChiori　（陰ヨガ、瞑想）\nhttps://chioriurara-yoga.com/\n\nAtsumi　（アシュタンガヨガ、骨格美ボディヨガ）\nhttps://blueyogajapan.com/\n\nTomochi　（キッズヨガ、マインドフルネスヨガ）\nhttps://linktr.ee/wappytomochi\n\nAyako　（管理栄養士）\nhttps://note.com/ayako25\n\nHazuki　（顔トレ講師）\nhttps://www.instagram.com/nicohapi_hazuki/\n\nNao　（話し方講師）\nhttps://instabio.cc/3052807d5EKze\n\nMaki　（シンプルライフ研究家）\nhttps://www.handshakee.com/econaseikatsu\n\nAyumi　（スピリチュアルシンガーソングライター）\nhttps://linktr.ee/ayumiueda\n\nTomoya　（動画制作、DX戦略）\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N4-6DNbgM1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N4-6DNbgM1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N4-6DNbgM1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/N4-6DNbgM1Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/N4-6DNbgM1Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 42,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "N4-6DNbgM1Q"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "N4-6DNbgM1Q",
+        "videoPublishedAt": "2021-05-28T09:00:08Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "Xw6vKenax5oTk1LHBqNH1kyOnHU",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLmZKSnJKMmRkMVU0",
+      "snippet": {
+        "publishedAt": "2021-05-19T13:31:36Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【寝る前のヨガ】 全身の疲れを癒し、自律神経を整える #481",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fJJrJ2dd1U4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fJJrJ2dd1U4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fJJrJ2dd1U4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fJJrJ2dd1U4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fJJrJ2dd1U4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 43,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "fJJrJ2dd1U4"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "fJJrJ2dd1U4",
+        "videoPublishedAt": "2021-05-26T09:00:14Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "EzDjke4Sx1CRIkU_ZA-EOMql_d4",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLkk1U1ptRExlRTUw",
+      "snippet": {
+        "publishedAt": "2021-05-18T08:12:19Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【Q＆A】 新刊発売を記念して、視聴者さんからの質問に答えました！ #480",
+        "description": "提供：popIn Aladdin\npopIn Aladdin が5月31日までおうち時間応援セールを実施中。\n単品やTVチューナセットなど最大26,780円オフ。更に30日間の全額返金保証も付いてくるようです。\nhttps://c.affitch.com?ref=4QZE5G46KDQ4\n\n💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I5SZmDLeE50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I5SZmDLeE50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I5SZmDLeE50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I5SZmDLeE50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I5SZmDLeE50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 44,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "I5SZmDLeE50"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "I5SZmDLeE50",
+        "videoPublishedAt": "2021-05-23T09:02:32Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "nv5OP-aduta5A1nLCnoRTr1xACQ",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLjFSUDdEWkgyOENn",
+      "snippet": {
+        "publishedAt": "2021-05-19T06:22:41Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【1日10分】 肩と背中をほぐす朝ヨガ　一日を元気に過ごそう！ #479",
+        "description": "💗チャンネル登録して、B-lifeの最新情報をゲットしよう！\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg?sub_confirmation=1\n\n🧘\u200d♀️B-lifeオンラインサロン\n史上最高の自分に出会える美と健康と暮らしにフォーカスしたコミュニティグループ\nhttps://lounge.dmm.com/detail/1005/\n\n🧘\u200d♂️B-lifeチャンネルメンバーシップ\n直接質問できる質疑応答LIVEや撮影の舞台裏を限定公開\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n📅無料のヨガ・ワークアウトプログラム\n目的別のカレンダープログラムを提供しています\nhttps://b-life.style/\n\n⭐B-lifeオリジナルグッズ\nヨガマット、ヨガブロック、ウェアなどを販売しています\nhttps://shop.b-life.style/\n\n👕衣装協力:　KIT\nhttp://bit.ly/2BlGQ0i\n\n📕B-life書籍\n魔法のヨガ:　https://amzn.to/2TuLqR3\n魔法のピラティス:　https://amzn.to/3avHlEt\n最強！美腹筋トレーニング:　https://www.amazon.co.jp/dp/4594615066\n魔法の寝落ちヨガ:　https://amzn.to/36WtCYI\n魔法のマタニティヨガ:　https://www.amazon.co.jp/dp/4418214070\n\n📱SNS\nInstagram: @blifetokyo\nTwitter: @blifetokyo\nFacebook: facebook.com/blifetokyo\n\n📩お仕事の相談はこちらへ\n（※個人的なメッセージや質問はお控えください）\nblifetokyo@gmail.com\n\n⚠免責\nB-lifeで提供される動画は万人に適しているとは限りません。また医療行為に代替するものでもありません。動画内での道具の使用、ポーズ、動き、およびインストラクションに関するすべての提案やコメントは、必ずしも行う必要はなく、各自の判断で行なってください。B-lifeは、動画の視聴、製品、またはサービスの利用によって生じる可能性のある怪我や損害に関して一切の責任を負いません。心配な方は、ヨガやエクササイズプログラムを実践する前に、医療機関専門家にご相談ください。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1RP7DZH28Cg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1RP7DZH28Cg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1RP7DZH28Cg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1RP7DZH28Cg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1RP7DZH28Cg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 45,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "1RP7DZH28Cg"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "1RP7DZH28Cg",
+        "videoPublishedAt": "2021-05-19T09:00:01Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "ZQrIli5aW6vsbQLEXr6-5LN-sZI",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLk1TUzNnSmxOM1dr",
+      "snippet": {
+        "publishedAt": "2021-04-07T02:41:37Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【全身の疲労回復】 産後の症状改善、肩こり・骨盤調整に効果的！ #478",
+        "description": "【魔法のマタニティヨガ】\n\nコロナ禍でも安心して安産に導けるよう、今までのヨガの経験、マタニティヨガの知識を総動員して作った本です。\n\nご予約はこちらから↓\nhttps://www.amazon.co.jp/dp/4418214070\n\n------------------------------------------------------------------------------\n\n【マタニティヨガ動画の再生リスト】\n\n妊婦さんでもできるヨガの動画をこちらの再生リストにまとめてあります。\nhttps://www.youtube.com/playlist?list=PLzBAwob7UcDfEewc1YCvNo-pxv2-jKkHF\n\n------------------------------------------------------------------------------\n\n【B-lifeオリジナルグッズ】\n\nヨガマット、ヨガブロック等のツールや、Tシャツ、タンクトップなどを販売しています。\nhttps://shop.b-life.style/\n\n------------------------------------------------------------------------------\n\n【B-lifeオンラインサロン】\n\nB-lifeオンラインサロン7日間無料！全部で100時間以上のLIVEレッスンが受けられます。\nhttps://lounge.dmm.com/detail/1005/\n\n------------------------------------------------------------------------------\n\n【B-lifeチャンネルメンバーシップ】\n\nメンバー限定の質疑応答LIVEや撮影の舞台裏を限定公開しています。\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n------------------------------------------------------------------------------\n\n【B-lifeカレンダープログラム】\n\n無料でできる目的別のカレンダープログラムを提供しています。\nhttps://b-life.style/\n\n------------------------------------------------------------------------------\n\n【B-life書籍】　\n\n魔法のヨガ\nhttps://amzn.to/2TuLqR3\n\n魔法のピラティス\nhttps://amzn.to/3avHlEt\n\n最強！美腹筋トレーニング\nhttps://www.amazon.co.jp/dp/4594615066\n\n魔法の寝落ちヨガ\nhttps://amzn.to/36WtCYI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MSS3gJlN3Wk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MSS3gJlN3Wk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MSS3gJlN3Wk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MSS3gJlN3Wk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MSS3gJlN3Wk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 46,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "MSS3gJlN3Wk"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "MSS3gJlN3Wk",
+        "videoPublishedAt": "2021-05-16T09:00:12Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "7fiYKIGXuMaO_X_1THDi-o4C7x0",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLkpKMXhHRHRoRHJB",
+      "snippet": {
+        "publishedAt": "2021-04-07T01:16:36Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【安産力を高める骨盤ケア】 体力・体幹力・足腰の強化に効果的 #477",
+        "description": "【魔法のマタニティヨガ】\n\nコロナ禍でも安心して安産に導けるよう、今までのヨガの経験、マタニティヨガの知識を総動員して作った本です。\n\nご予約はこちらから↓\nhttps://www.amazon.co.jp/dp/4418214070\n\n------------------------------------------------------------------------------\n\n【マタニティヨガ動画の再生リスト】\n\n妊婦さんでもできるヨガの動画をこちらの再生リストにまとめてあります。\nhttps://www.youtube.com/playlist?list=PLzBAwob7UcDfEewc1YCvNo-pxv2-jKkHF\n\n------------------------------------------------------------------------------\n\n【B-lifeオリジナルグッズ】\n\nヨガマット、ヨガブロック等のツールや、Tシャツ、タンクトップなどを販売しています。\nhttps://shop.b-life.style/\n\n------------------------------------------------------------------------------\n\n【B-lifeオンラインサロン】\n\nB-lifeオンラインサロン7日間無料！全部で100時間以上のLIVEレッスンが受けられます。\nhttps://lounge.dmm.com/detail/1005/\n\n------------------------------------------------------------------------------\n\n【B-lifeチャンネルメンバーシップ】\n\nメンバー限定の質疑応答LIVEや撮影の舞台裏を限定公開しています。\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n------------------------------------------------------------------------------\n\n【B-lifeカレンダープログラム】\n\n無料でできる目的別のカレンダープログラムを提供しています。\nhttps://b-life.style/\n\n------------------------------------------------------------------------------\n\n【B-life書籍】　\n\n魔法のヨガ\nhttps://amzn.to/2TuLqR3\n\n魔法のピラティス\nhttps://amzn.to/3avHlEt\n\n最強！美腹筋トレーニング\nhttps://www.amazon.co.jp/dp/4594615066\n\n魔法の寝落ちヨガ\nhttps://amzn.to/36WtCYI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JJ1xGDthDrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JJ1xGDthDrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JJ1xGDthDrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JJ1xGDthDrA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JJ1xGDthDrA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 47,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "JJ1xGDthDrA"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "JJ1xGDthDrA",
+        "videoPublishedAt": "2021-05-12T09:00:06Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "KlUeNyHinD4_arYWANEuNvPE_GI",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLnVabDVoall2bnI4",
+      "snippet": {
+        "publishedAt": "2021-04-07T00:59:33Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【自律神経を整える】 妊婦さん・ヨガ初心者におすすめの究極のリラックスヨガ #476",
+        "description": "【魔法のマタニティヨガ】\n\nコロナ禍でも安心して安産に導けるよう、今までのヨガの経験、マタニティヨガの知識を総動員して作った本です。\n\nご予約はこちらから↓\nhttps://www.amazon.co.jp/dp/4418214070\n\n------------------------------------------------------------------------------\n\n【マタニティヨガ動画の再生リスト】\n\n妊婦さんでもできるヨガの動画をこちらの再生リストにまとめてあります。\nhttps://www.youtube.com/playlist?list=PLzBAwob7UcDfEewc1YCvNo-pxv2-jKkHF\n\n------------------------------------------------------------------------------\n\n【B-lifeオリジナルグッズ】\n\nヨガマット、ヨガブロック等のツールや、Tシャツ、タンクトップなどを販売しています。\nhttps://shop.b-life.style/\n\n------------------------------------------------------------------------------\n\n【B-lifeオンラインサロン】\n\nB-lifeオンラインサロン7日間無料！全部で100時間以上のLIVEレッスンが受けられます。\nhttps://lounge.dmm.com/detail/1005/\n\n------------------------------------------------------------------------------\n\n【B-lifeチャンネルメンバーシップ】\n\nメンバー限定の質疑応答LIVEや撮影の舞台裏を限定公開しています。\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n------------------------------------------------------------------------------\n\n【B-lifeカレンダープログラム】\n\n無料でできる目的別のカレンダープログラムを提供しています。\nhttps://b-life.style/\n\n------------------------------------------------------------------------------\n\n【B-life書籍】　\n\n魔法のヨガ\nhttps://amzn.to/2TuLqR3\n\n魔法のピラティス\nhttps://amzn.to/3avHlEt\n\n最強！美腹筋トレーニング\nhttps://www.amazon.co.jp/dp/4594615066\n\n魔法の寝落ちヨガ\nhttps://amzn.to/36WtCYI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uZl5hjYvnr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uZl5hjYvnr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uZl5hjYvnr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uZl5hjYvnr8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uZl5hjYvnr8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 48,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "uZl5hjYvnr8"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "uZl5hjYvnr8",
+        "videoPublishedAt": "2021-05-09T09:00:19Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "1CsoJG4qdSaVyVqp4TNvS0YOfCk",
+      "id": "VVVkMHBVbkg3aTVDTS1ZOHhSZTdjWlZnLjl3NzBNNWYzWjA4",
+      "snippet": {
+        "publishedAt": "2021-04-07T01:09:52Z",
+        "channelId": "UCd0pUnH7i5CM-Y8xRe7cZVg",
+        "title": "【全身を整える】 マタニティの不調改善、骨盤のゆがみ・肩こり・腰痛・むくみを解消 #475",
+        "description": "【魔法のマタニティヨガ】\n\nコロナ禍でも安心して安産に導けるよう、今までのヨガの経験、マタニティヨガの知識を総動員して作った本です。\n\nご予約はこちらから↓\nhttps://www.amazon.co.jp/dp/4418214070\n\n------------------------------------------------------------------------------\n\n【マタニティヨガ動画の再生リスト】\n\n妊婦さんでもできるヨガの動画をこちらの再生リストにまとめてあります。\nhttps://www.youtube.com/playlist?list=PLzBAwob7UcDfEewc1YCvNo-pxv2-jKkHF\n\n------------------------------------------------------------------------------\n\n【B-lifeオリジナルグッズ】\n\nヨガマット、ヨガブロック等のツールや、Tシャツ、タンクトップなどを販売しています。\nhttps://shop.b-life.style/\n\n------------------------------------------------------------------------------\n\n【B-lifeオンラインサロン】\n\nB-lifeオンラインサロン7日間無料！全部で100時間以上のLIVEレッスンが受けられます。\nhttps://lounge.dmm.com/detail/1005/\n\n------------------------------------------------------------------------------\n\n【B-lifeチャンネルメンバーシップ】\n\nメンバー限定の質疑応答LIVEや撮影の舞台裏を限定公開しています。\nhttps://www.youtube.com/channel/UCd0pUnH7i5CM-Y8xRe7cZVg/join\n\n------------------------------------------------------------------------------\n\n【B-lifeカレンダープログラム】\n\n無料でできる目的別のカレンダープログラムを提供しています。\nhttps://b-life.style/\n\n------------------------------------------------------------------------------\n\n【B-life書籍】　\n\n魔法のヨガ\nhttps://amzn.to/2TuLqR3\n\n魔法のピラティス\nhttps://amzn.to/3avHlEt\n\n最強！美腹筋トレーニング\nhttps://www.amazon.co.jp/dp/4594615066\n\n魔法の寝落ちヨガ\nhttps://amzn.to/36WtCYI",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9w70M5f3Z08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9w70M5f3Z08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9w70M5f3Z08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9w70M5f3Z08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9w70M5f3Z08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "B-life",
+        "playlistId": "UUd0pUnH7i5CM-Y8xRe7cZVg",
+        "position": 49,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "9w70M5f3Z08"
+        },
+        "videoOwnerChannelTitle": "B-life",
+        "videoOwnerChannelId": "UCd0pUnH7i5CM-Y8xRe7cZVg"
+      },
+      "contentDetails": {
+        "videoId": "9w70M5f3Z08",
+        "videoPublishedAt": "2021-05-05T09:00:02Z"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 524,
+    "resultsPerPage": 50
+  }
+}
